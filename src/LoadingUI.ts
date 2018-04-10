@@ -27,7 +27,7 @@
 //
 //////////////////////////////////////////////////////////////////////////////////////
 
-class LoadingUI extends egret.Sprite implements RES.PromiseTaskReporter {
+class LoadingUI extends egret.Sprite {
 
     public constructor() {
         super();
